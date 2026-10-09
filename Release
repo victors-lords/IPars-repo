@@ -1,0 +1,7 @@
+Origin: AyLinux
+Label: AyLinux
+Suite: stable
+Codename: stable
+Architectures: all aarch64 arm
+Components: main
+Description: Resmi AyLinux APT Paketi Deposu

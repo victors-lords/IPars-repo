@@ -1,0 +1,13 @@
+Package: aylinux-banner
+Version: 1.0.0
+Architecture: all
+Maintainer: Aybars Reis <victors-lords@github.com>
+Filename: ./aylinux-banner_1.0.0_all.deb
+Size: 1084
+MD5sum: 8c85f5ea96204bab01872af9bdcceb0e
+SHA1: 6a91406bc2921ad103418fe7a3ae88bd3841f594
+SHA256: eea07bb0c8bd5ba860085624af7898de83cc58c26157847c0c57f908fa54ac2b
+Section: utils
+Priority: optional
+Description: AyLinux Resmi Baslangic ve Karsilama Paketi
+
