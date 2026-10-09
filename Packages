@@ -11,3 +11,14 @@ Section: utils
 Priority: optional
 Description: AyLinux Resmi Baslangic ve Karsilama Paketi
 
+Package: aytop
+Version: 1.0.0
+Architecture: all
+Maintainer: victors-lords <aybars@aylinux.org>
+Filename: ./aytop_1.0.0_all.deb
+Size: 2644
+MD5sum: e7981fc8d19d6253b8904cc7f90d3968
+SHA1: 0df046a741d3aecdf640d74fd84073d6d2370d2b
+SHA256: 956cb6743ec71106d330352bbfec8e1efc2cc00eb2943e48207974083d78f0a8
+Description: AyLinux Futuristic Interactive System Monitor (htop alternative)
+
