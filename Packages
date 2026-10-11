@@ -1,3 +1,17 @@
+Package: ayfetch
+Version: 1.0.0
+Architecture: all
+Maintainer: Aybars <aylinux@system.org>
+Filename: ./ayfetch_1.0.0_all.deb
+Size: 1644
+MD5sum: 8f798ecbdc74c957bd2b4db6baad09d4
+SHA1: e7a2628f395ef774dc8065d3d1521bd77df59d46
+SHA256: db8b6d4a4bfb72053642faf19bfdfccc02b4d10d45a9b70ba233d303c1651588
+Section: utils
+Priority: optional
+Description: AyLinux Ozel Hizli Sistem Bilgi Araci
+ AyLinux icin ozel hilal ve yildiz logolu, neofetch alternatifi ultra hizli sistem ozetleyici.
+
 Package: aylinux-banner
 Version: 1.0.0
 Architecture: all
