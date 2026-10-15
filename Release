@@ -1,7 +1,9 @@
 Origin: AyLinux
 Label: AyLinux
 Suite: stable
-Codename: stable
-Architectures: all aarch64 arm
+Date: Thu, 15 Oct 2026 15:25:38 +0000
+Architectures: all
 Components: main
-Description: Resmi AyLinux APT Paketi Deposu
+SHA256:
+ 7e575fd2f458188e2d37574a5e62b280d81ae55c7d82da70a467197aa3e555fe 1510 Packages
+ ef040b1287d8859d3603de6d56d470f520cc20ee2e86ee9a5ce85f11eb42fa8f 889 Packages.gz
