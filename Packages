@@ -32,13 +32,20 @@ Priority: optional
 Description: AyLinux Resmi Baslangic ve Karsilama Paketi
 
 Package: aytop
-Version: 1.0.0
+Version: 2.0.0
 Architecture: all
 Maintainer: victors-lords <aybars@aylinux.org>
-Filename: ./aytop_1.0.0_all.deb
-Size: 2644
-MD5sum: e7981fc8d19d6253b8904cc7f90d3968
-SHA1: 0df046a741d3aecdf640d74fd84073d6d2370d2b
-SHA256: 956cb6743ec71106d330352bbfec8e1efc2cc00eb2943e48207974083d78f0a8
-Description: AyLinux Futuristic Interactive System Monitor (htop alternative)
+Installed-Size: 112
+Depends: python3
+Filename: ./aytop_2.0.0_all.deb
+Size: 21240
+MD5sum: 91ee22d19a5bfbfcd93539ae8890c288
+SHA1: 9b09375d5de5ccadea4136a8f90bfbefcf863267
+SHA256: 993fccaad4847e048736b709749f9aa0fe69eab7027d8c35e27d89693ffb5d1f
+Section: utils
+Priority: optional
+Description: AyLinux interactive system monitor (htop alternative)
+ Full-screen curses monitor: per-core CPU, memory, swap and network meters,
+ process tree, search, filter, sort, kill/nice, process details, open files,
+ environment viewer, mouse support, themes and persistent settings.
 
