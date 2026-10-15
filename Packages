@@ -1,16 +1,22 @@
 Package: ayfetch
-Version: 1.0.0
+Version: 2.0.0
 Architecture: all
 Maintainer: Aybars <aylinux@system.org>
-Filename: ./ayfetch_1.0.0_all.deb
-Size: 1644
-MD5sum: 8f798ecbdc74c957bd2b4db6baad09d4
-SHA1: e7a2628f395ef774dc8065d3d1521bd77df59d46
-SHA256: db8b6d4a4bfb72053642faf19bfdfccc02b4d10d45a9b70ba233d303c1651588
+Installed-Size: 84
+Depends: bash (>= 4.3), coreutils, grep, awk
+Recommends: pciutils, x11-xserver-utils
+Suggests: wmctrl
+Filename: ./ayfetch_2_0_0_all.deb
+Size: 9720
+MD5sum: b5bc21d6e30d8cb5ddece5872177baad
+SHA1: 4c8d09b12ed72f877c14e70e69f763e256632199
+SHA256: 910af9fd7ad966ec789f2cf0f16a1c4750e031f7126975479211813094101ef5
 Section: utils
 Priority: optional
 Description: AyLinux Ozel Hizli Sistem Bilgi Araci
- AyLinux icin ozel hilal ve yildiz logolu, neofetch alternatifi ultra hizli sistem ozetleyici.
+ AyLinux icin hilal ve yildiz logolu, neofetch/fastfetch alternatifi hizli
+ sistem ozetleyici. Saf bash, ~20 ms. Moduler, ayar dosyasi, TR/EN dil,
+ RAM/Disk cubuklari, JSON cikti, dar terminalde otomatik kucuk logo.
 
 Package: aylinux-banner
 Version: 1.0.0
