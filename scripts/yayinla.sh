@@ -4,7 +4,7 @@ REPO_DIR="$HOME/aylinux-repo"
 cd "$REPO_DIR"
 
 echo "🦁 AyLinux Repo Güncelleniyor..."
-dpkg-scanpackages --multiversion . > Packages
+dpkg-scanpackages  . > Packages
 gzip -k -f Packages
 
 git add .
