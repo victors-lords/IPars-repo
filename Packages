@@ -32,17 +32,17 @@ Priority: optional
 Description: AyLinux Resmi Baslangic ve Karsilama Paketi
 
 Package: aytop
-Version: 2.1.1
+Version: 2.1.3
 Architecture: all
 Maintainer: victors-lords <aybars@aylinux.org>
-Installed-Size: 132
+Installed-Size: 136
 Depends: python3 (>= 3.8)
 Recommends: iproute2
-Filename: ./aytop_2.1.1_all.deb
-Size: 25748
-MD5sum: 03438bbc928fe5af07fb53c36066b157
-SHA1: f366bad5706c63bd44b6a63151a1babd60a67e4c
-SHA256: 9eca694f877ec8b8d253a1a5491a5fa22260ecff004ec32f714c60d5d7fe63d5
+Filename: ./aytop_2.1.3_all.deb
+Size: 27300
+MD5sum: 5e99f62f1f9a942fcc6bb2a316e7930a
+SHA1: 85a98ab39c9e283eb79f7809e8478e266f47c790
+SHA256: 3be6d9b930403af36f39c6c035f77de46ca2fd30c1a2424678101f0d59d22383
 Section: utils
 Priority: optional
 Description: AyLinux interactive system monitor (htop alternative)
