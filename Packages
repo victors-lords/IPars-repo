@@ -1,16 +1,16 @@
 Package: ayfetch
-Version: 2.0.0
+Version: 2.1.0
 Architecture: all
 Maintainer: Aybars <aylinux@system.org>
 Installed-Size: 84
 Depends: bash (>= 4.3), coreutils, grep, awk
 Recommends: pciutils, x11-xserver-utils
 Suggests: wmctrl
-Filename: ./ayfetch_2_0_0_all.deb
-Size: 9720
-MD5sum: b5bc21d6e30d8cb5ddece5872177baad
-SHA1: 4c8d09b12ed72f877c14e70e69f763e256632199
-SHA256: 910af9fd7ad966ec789f2cf0f16a1c4750e031f7126975479211813094101ef5
+Filename: ./ayfetch_2.1.0_all.deb
+Size: 10818
+MD5sum: f8516e1ff9d5ccc78cf6ce1dfebbe9db
+SHA1: e77c0481e0ad40822510b4567fdac1be7eaccc65
+SHA256: 01af00a1222ef4aa238a713a4d4a3aa13abb548896d89e9412465e53ddcc8bac
 Section: utils
 Priority: optional
 Description: AyLinux Ozel Hizli Sistem Bilgi Araci
