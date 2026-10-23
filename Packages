@@ -52,16 +52,16 @@ Description: AyLinux interactive system monitor (htop alternative)
  "who loaded the system" view, mouse support, themes and persistent settings.
 
 Package: day
-Version: 1.0.0
+Version: 1.1.0
 Architecture: all
 Maintainer: victors-lords <aybars@aylinux.org>
-Installed-Size: 140
+Installed-Size: 176
 Depends: python3 (>= 3.8)
-Filename: ./day_1.0.0_all.deb
-Size: 18680
-MD5sum: afacf20be2ebeadc35991e0c15712aad
-SHA1: e8c873b31fc4897287db93acd9cc712f2c015a50
-SHA256: 8b84aecfd374726a56018dee1213b8f1500e7e5341ca6704bb029cbafd81a3f0
+Filename: ./day_1.1.0_all.deb
+Size: 31584
+MD5sum: b70dedadce202387aa5a2eee3eeab4c0
+SHA1: e95cf76b69dfc5eeee00a5fd166018bd6bd6a295
+SHA256: c2cfef2d414f450dda280977a59e5fcc7dd5a32868e5876cf87f8166d10b5209
 Section: utils
 Priority: optional
 Description: AyLinux compressed package (.day) tool and viewer
@@ -71,4 +71,6 @@ Description: AyLinux compressed package (.day) tool and viewer
  and extractor also read .zip and tar archives. Extraction refuses path and
  symlink escapes and stops decompression bombs. Falls back to plain ASCII
  on terminals that are not UTF-8.
+ Version 1.1 adds solid compression for many small files, Ed25519 signing
+ and script-less installable packages (day install / remove).
 
