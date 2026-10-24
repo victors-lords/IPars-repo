@@ -9,7 +9,7 @@ AyLinux ekosistemi ve Termux/Linux ortamları için geliştirilmiş resmi APT de
 Depoyu Termux sisteminize tek komutla ekleyin:
 
 ```bash
-echo "deb [trusted=yes] https://victors-lords.github.io/aylinux-repo/ ./" > $PREFIX/etc/apt/sources.list.d/aylinux.list
+echo "deb [trusted=yes] https://victors-lords.github.io/IPars-repo/ ./" > $PREFIX/etc/apt/sources.list.d/aylinux.list
 apt update
 ```
 
