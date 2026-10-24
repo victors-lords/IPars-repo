@@ -1,6 +1,6 @@
 # 🦁 İPars Resmi APT Paket Deposu
 
-AyLinux ekosistemi ve Termux/Linux ortamları için geliştirilmiş resmi APT deposu.
+İPars ekosistemi ve Termux/Linux ortamları için geliştirilmiş resmi APT deposu.
 
 ---
 
@@ -26,7 +26,7 @@ apt install İmonitoring
 ```
 
 ### 2. `İPars-banner` 🦁
-AyLinux resmi fütüristik karşılama ekranı ve Pars ASCII sanatı.
+İPars resmi fütüristik karşılama ekranı ve Pars ASCII sanatı.
 ```bash
 apt install İPars-banner
 İPars-banner
