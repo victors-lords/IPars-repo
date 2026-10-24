@@ -1,4 +1,4 @@
-# 🦁 AyLinux Resmi APT Paket Deposu
+# 🦁 İPars Resmi APT Paket Deposu
 
 AyLinux ekosistemi ve Termux/Linux ortamları için geliştirilmiş resmi APT deposu.
 
@@ -21,15 +21,15 @@ apt update
 Canlı, interaktif ve fütüristik sistem monitörü (`htop` alternatifi).
 - CPU barları, RAM kullanımı, Uptime ve aktif süreçleri canlı görselleştirir.
 ```bash
-apt install aytop
-aytop
+apt install İmonitoring
+İmonitoring 
 ```
 
-### 2. `aylinux-banner` 🦁
+### 2. `İPars-banner` 🦁
 AyLinux resmi fütüristik karşılama ekranı ve Pars ASCII sanatı.
 ```bash
-apt install aylinux-banner
-aylinux-banner
+apt install İPars-banner
+İPars-banner
 ```
 
 ---
