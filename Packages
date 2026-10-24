@@ -6,7 +6,7 @@ Installed-Size: 84
 Depends: bash (>= 4.3), coreutils, grep, awk
 Recommends: pciutils, x11-xserver-utils
 Suggests: wmctrl
-Filename: ./ayfetch_2.1.0_all.deb
+Filename: ./İinfo_2.1.0_all.deb
 Size: 10818
 MD5sum: f8516e1ff9d5ccc78cf6ce1dfebbe9db
 SHA1: e77c0481e0ad40822510b4567fdac1be7eaccc65
@@ -22,7 +22,7 @@ Package: aylinux-banner
 Version: 1.0.0
 Architecture: all
 Maintainer: Aybars Reis <victors-lords@github.com>
-Filename: ./aylinux-banner_1.0.0_all.deb
+Filename: ./İpars-banner_1.0.0_all.deb
 Size: 1084
 MD5sum: 8c85f5ea96204bab01872af9bdcceb0e
 SHA1: 6a91406bc2921ad103418fe7a3ae88bd3841f594
@@ -38,7 +38,7 @@ Maintainer: victors-lords <aybars@aylinux.org>
 Installed-Size: 136
 Depends: python3 (>= 3.8)
 Recommends: iproute2
-Filename: ./aytop_2.1.4_all.deb
+Filename: ./İmonitoring_2.1.4_all.deb
 Size: 27564
 MD5sum: 85d60d9b449899c43de42d27290ecd04
 SHA1: f80a746a29a235d295fd17aa3af3278174ceefc0
